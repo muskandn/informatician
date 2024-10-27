@@ -17,7 +17,6 @@
 - [License](#license)
 
 ---
-
 ## Features
 
 - **Book Contribution**: Contribute to the platform by adding new books, enriching the library for the entire community to enjoy.
